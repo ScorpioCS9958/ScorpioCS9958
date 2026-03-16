@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0096C7,100:00ccff&height=200&section=header&text=Bhashika%20H.%20Jayasinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=16&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=200&section=header&text=Bhashika%20H.%20Jayasinghe&fontSize=42&fontColor=0a0a0f&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=16&descColor=0a0a0f" />
 
 </div>
 
 <div align="center">
 
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Live-0096C7?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-bhashika--portfolio.netlify.app-0a0a0f?style=for-the-badge&labelColor=00ff88&color=0a0a0f" />
 </a>
 <a href="https://linkedin.com/in/bhashikahirusha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A0A0F" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
 </a>
 <a href="mailto:bhashikahiru9958@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ScorpioCS9958&label=Profile+Views&color=0096C7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ScorpioCS9958&label=Profile+Views&color=0a0a0f&labelColor=00ff88&style=for-the-badge" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0096C7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Workflow+Automation+with+n8n;Cisco+Certified+Ethical+Hacker;Building+Enterprise+ERP+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+Developer;⚙️+PHP+%7C+JavaScript+%7C+React+Developer;🤖+Workflow+Automation+with+n8n;🛡️+Cisco+Certified+Ethical+Hacker;💡+Building+Enterprise+ERP+Systems;🌱+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 </div>
 
@@ -108,7 +108,7 @@ const bhashika = {
 
 ### 🛡️ Cybersecurity
 ![Cisco](https://img.shields.io/badge/Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacker-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacker-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Network Defense](https://img.shields.io/badge/Network_Defense-005571?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
@@ -142,8 +142,8 @@ const bhashika = {
 ### 🌐 Personal Portfolio Website
 > Modern animated developer portfolio
 
-[![Live](https://img.shields.io/badge/🔗_Live_Site-00ff88?style=flat-square)](https://bhashika-portfolio.netlify.app)
-[![Repo](https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958/bhashika-portfolio)
+[![Live](https://img.shields.io/badge/🔗_Live_Site-0a0a0f?style=flat-square&labelColor=00ff88&color=0a0a0f)](https://bhashika-portfolio.netlify.app)
+[![Repo](https://img.shields.io/badge/📁_Repository-white?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/ScorpioCS9958/bhashika-portfolio)
 
 **Key Features:**
 - ⚡ Animated hero with typing effect
@@ -226,13 +226,13 @@ const bhashika = {
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🔴 Ethical Hacker | Cisco Networking Academy | 2025-Present |
-| 🛡️ Networking Defense | Cisco Networking Academy | 2026-Present |
+| 🔴 Ethical Hacker | Cisco Networking Academy | 2025 |
+| 🛡️ Networking Defense | Cisco Networking Academy | 2026 |
 | 🔒 Cybersecurity Essentials | Cisco Networking Academy | 2021 |
-| 💛 JavaScript Essentials 1 | Cisco Networking Academy | 2025-Present |
+| 💛 JavaScript Essentials 1 | Cisco Networking Academy | 2024 |
 | 🐧 NDG Linux Unhatched | Cisco Networking Academy | 2021 |
 | 🐧 NDG Linux Essentials | Cisco Networking Academy | 2022 |
-| 🌐 Networking Basics | Cisco Networking Academy | 2025-Present |
+| 🌐 Networking Basics | Cisco Networking Academy | 2025 |
 | 🔐 Introduction to Cybersecurity | Cisco Networking Academy | 2020 |
 
 </div>
@@ -244,19 +244,19 @@ const bhashika = {
 <div align="center">
 
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-bhashika--portfolio.netlify.app-00ff88?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-bhashika--portfolio.netlify.app-0a0a0f?style=for-the-badge&labelColor=00ff88&color=0a0a0f" />
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/bhashikahirusha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-bhashikahirusha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-bhashikahirusha-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
 </a>
 <a href="mailto:bhashikahiru9958@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bhashikahiru9958@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-bhashikahiru9958@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
 </a>
 <a href="https://github.com/ScorpioCS9958" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ScorpioCS9958-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ScorpioCS9958-white?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
 </a>
 
 </div>
@@ -265,6 +265,6 @@ const bhashika = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:0096C7,100:0a0a0f&height=120&section=footer&text=Code%20•%20Build%20•%20Learn%20•%20Repeat&fontSize=18&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:00ff88,100:0a0a0f&height=120&section=footer&text=Code%20%E2%80%A2%20Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Repeat&fontSize=18&fontColor=0a0a0f&fontAlignY=65" />
 
 </div>
