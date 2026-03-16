@@ -265,6 +265,6 @@ const bhashika = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:00ff88,100:0a0a0f&height=120&section=footer&text=Code%20•%20Build%20•%20Learn%20•%20Repeat&fontSize=18&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:0096C7,100:0a0a0f&height=120&section=footer&text=Code%20•%20Build%20•%20Learn%20•%20Repeat&fontSize=18&fontColor=ffffff&fontAlignY=65" />
 
 </div>
