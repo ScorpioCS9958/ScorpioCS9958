@@ -7,15 +7,15 @@
 <div align="center">
 
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Live-00ff88?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Live%20Site-00ff88?style=for-the-badge&labelColor=0a0a0f&color=00ff88&logoColor=000000" />
 </a>
 <a href="https://linkedin.com/in/bhashikahirusha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A0A0F" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:bhashikahiru9958@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ScorpioCS9958&label=Profile+Views&color=00ff88&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ScorpioCS9958&label=Profile+Views&color=00ff88&style=for-the-badge&labelColor=0a0a0f" />
 
 </div>
 
@@ -142,8 +142,8 @@ const bhashika = {
 ### 🌐 Personal Portfolio Website
 > Modern animated developer portfolio
 
-[![Live](https://img.shields.io/badge/🔗_Live_Site-00ff88?style=flat-square)](https://bhashika-portfolio.netlify.app)
-[![Repo](https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958/bhashika-portfolio)
+[![Live](https://img.shields.io/badge/🔗_Live_Site-bhashika--portfolio.netlify.app-0a0a0f?style=flat-square&color=0a0a0f&labelColor=00ff88&logoColor=000000)](https://bhashika-portfolio.netlify.app)
+[![Repo](https://img.shields.io/badge/📁_Repository-ScorpioCS9958-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958/bhashika-portfolio)
 
 **Key Features:**
 - ⚡ Animated hero with typing effect
@@ -244,7 +244,7 @@ const bhashika = {
 <div align="center">
 
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-bhashika--portfolio.netlify.app-00ff88?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-bhashika--portfolio.netlify.app-000000?style=for-the-badge&labelColor=00ff88&color=0a0a0f" />
 </a>
 
 <br/><br/>
