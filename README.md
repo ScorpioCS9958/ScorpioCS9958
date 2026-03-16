@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00ff88,100:00ccff&height=200&section=header&text=Bhashika%20H.%20Jayasinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=16&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0096C7,100:00ccff&height=200&section=header&text=Bhashika%20H.%20Jayasinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=16&descColor=cccccc" />
 
 </div>
 
 <div align="center">
 
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Live-00ff88?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Live-0096C7?style=for-the-badge&labelColor=0a0a0f" />
 </a>
 <a href="https://linkedin.com/in/bhashikahirusha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A0A0F" />
@@ -15,7 +15,7 @@
 <a href="mailto:bhashikahiru9958@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ScorpioCS9958&label=Profile+Views&color=00ff88&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ScorpioCS9958&label=Profile+Views&color=0096C7&style=for-the-badge" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=009f55&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Workflow+Automation+with+n8n;Cisco+Certified+Ethical+Hacker;Building+Enterprise+ERP+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0096C7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Workflow+Automation+with+n8n;Cisco+Certified+Ethical+Hacker;Building+Enterprise+ERP+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 </div>
 
