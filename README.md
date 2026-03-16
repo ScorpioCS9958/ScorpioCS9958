@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+Developer;⚙️+PHP+%7C+JavaScript+%7C+React+Developer;🤖+Workflow+Automation+with+n8n;🛡️+Cisco+Certified+Ethical+Hacker;💡+Building+Enterprise+ERP+Systems;🌱+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Workflow+Automation+with+n8n;Cisco+Certified+Ethical+Hacker;Building+Enterprise+ERP+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 </div>
 
