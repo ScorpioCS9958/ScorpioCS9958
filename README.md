@@ -244,7 +244,7 @@ const bhashika = {
 <div align="center">
 
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-bhashika--portfolio.netlify.app-00ff88?style=for-the-badge&labelColor=0a0a0f" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-bhashika--portfolio.netlify.app-00c167?style=for-the-badge&labelColor=0a0a0f" />
 </a>
 
 <br/><br/>
