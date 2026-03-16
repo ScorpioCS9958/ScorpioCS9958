@@ -142,7 +142,7 @@ const bhashika = {
 ### 🌐 Personal Portfolio Website
 > Modern animated developer portfolio
 
-[![Live](https://img.shields.io/badge/🔗_Live_Site-00ff88?style=flat-square)](https://bhashika-portfolio.netlify.app)
+[![Live](https://img.shields.io/badge/🔗_Live_Site-00c167?style=flat-square)](https://bhashika-portfolio.netlify.app)
 [![Repo](https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958/bhashika-portfolio)
 
 **Key Features:**
