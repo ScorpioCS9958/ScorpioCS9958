@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0096C7,100:00ccff&height=200&section=header&text=Bhashika%20H.%20Jayasinghe&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=16&descColor=cccccc" />
@@ -9,7 +10,7 @@
 <a href="https://bhashika-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Live-0096C7?style=for-the-badge&labelColor=0a0a0f" />
 </a>
-<a href="https://linkedin.com/in/bhashikahirusha" target="_blank">
+<a href="https://linkedin.com/in/bhashika-h-jayasinghe-561482206/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0A0A0F" />
 </a>
 <a href="mailto:bhashikahiru9958@gmail.com">
@@ -126,6 +127,8 @@ const bhashika = {
 ### 🏢 ERP & Procurement System
 > Enterprise-grade web application for CSquare Technologies
 
+[![Repo](https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958)
+
 **Key Features:**
 - 🔐 Role-based dashboards (Officer / Approver / Admin / Executive)
 - 📦 Real-time inventory with low-stock alerts
@@ -154,6 +157,7 @@ const bhashika = {
 **Stack:** `React 19` `Vite` `Tailwind CSS v4` `React Router`
 
 </td>
+
 </tr>
 <tr>
 
@@ -161,6 +165,8 @@ const bhashika = {
 
 ### 🎓 Student Management System
 > Academic web platform for universities
+
+[![Repo](https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958)
 
 **Key Features:**
 - 👨‍🎓 Student & Lecturer dashboards
@@ -177,6 +183,8 @@ const bhashika = {
 ### 🤖 Gemini AI Chat App Clone
 > AI chatbot with Google Gemini API
 
+[![Repo](https://img.shields.io/badge/📁_Repository-181717?style=flat-square&logo=github)](https://github.com/ScorpioCS9958)
+
 **Key Features:**
 - 💬 Real-time conversational AI responses
 - 🗂️ Multi-chat history management
@@ -185,9 +193,12 @@ const bhashika = {
 **Stack:** `React.js` `Google Gemini API` `JavaScript` `CSS`
 
 </td>
+
 </tr>
 </table>
 </div>
+
+> **🔄 Ongoing projects** (AI Job Finder LK, ShopMate POS, AI Personal Study Coach) – more details coming soon. Check back or reach out for early access.
 
 ---
 
@@ -249,7 +260,7 @@ const bhashika = {
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/bhashikahirusha" target="_blank">
+<a href="https://linkedin.com/in/bhashika-h-jayasinghe-561482206/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-bhashikahirusha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:bhashikahiru9958@gmail.com">
@@ -268,3 +279,4 @@ const bhashika = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:0096C7,100:0a0a0f&height=120&section=footer&text=Code%20•%20Build%20•%20Learn%20•%20Repeat&fontSize=18&fontColor=ffffff&fontAlignY=65" />
 
 </div>
+```
